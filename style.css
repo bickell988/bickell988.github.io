@@ -1,15 +1,25 @@
 body {
-  background-color: #6600cc;
+	background-color: #6600cc;
+	font-family: 'Lilita One', sans-serif;
 }
 
 h1 {
-  color: white;
-  margin-left: 20px;
+	color: white;
+	margin-left: 10px;
 }
 
 .center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+
+.centertext {
+	text-align: center;
+}
+
+.pmtext {
+	color: white;
+	
 }
